@@ -9,6 +9,7 @@ Finbot is a modular AI-driven assistant built using the [LlamaIndex](https://gpt
 - `pip install uv`
 - Create your `.env` file with openAI key - `echo 'OPENAI_API_KEY="xyz"' > .env`
 - Install Dependencies - `uv sync` if you have a python 3.10 virtualenv already `uv sync --active`
+- If you are using `uv sync` make sure to activate the virtualenv `source .venv/bin/activate`
 
 
 ## Components

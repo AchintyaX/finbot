@@ -1,6 +1,6 @@
 # Finbot
 
-![Finbot Sticker](./assets/finbot_sticker.png)
+<img src="./assets/finbot_sticker.png" alt="Finbot Sticker" width="100"/>
 
 Finbot is a modular AI-driven assistant built using the [LlamaIndex](https://gpt-index.readthedocs.io/) library. It leverages a **Structured Planner Agent** to interact with tools and execute tasks. The project also includes an MCP (Model Context Protocol) server for managing tool specifications.
 
